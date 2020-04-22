@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59" started-at="2020-04-17T21:46:00Z" finished-at="2020-04-17T21:46:00Z">
+    <groups>
+    </groups>
+    <test name="Demo Test1" duration-ms="59" started-at="2020-04-17T21:46:00Z" finished-at="2020-04-17T21:46:00Z">
+      <class name="DemoMavenProject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:DemoMavenProject.SeleniumTest@2c9f9fb0]" name="BrowserAutomation" duration-ms="0" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="UIAutomation()[pri:0, instance:DemoMavenProject.SeleniumTest@2c9f9fb0]" name="UIAutomation" duration-ms="0" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIAutomation -->
+      </class> <!-- DemoMavenProject.SeleniumTest -->
+      <class name="DemoMavenProject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:DemoMavenProject.RestAPITest@735b478]" name="deleteTwitter" duration-ms="0" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:DemoMavenProject.RestAPITest@735b478]" name="postJira" duration-ms="0" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- DemoMavenProject.RestAPITest -->
+      <class name="DemoMavenProject.AppiumTest">
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:DemoMavenProject.AppiumTest@3551a94]" name="iosApp" duration-ms="15" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:DemoMavenProject.AppiumTest@3551a94]" name="nativeAppAndroid" duration-ms="0" started-at="2020-04-18T03:16:00Z" finished-at="2020-04-18T03:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- DemoMavenProject.AppiumTest -->
+    </test> <!-- Demo Test1 -->
+  </suite> <!-- Default suite -->
+</testng-results>
