@@ -12,6 +12,12 @@ public class RestAPITest {
 		System.out.println("RestAPI: Post Jira");
 		System.out.println("RestAPI: Post Jira II");
 		System.out.println("RestAPI: Post Jira III");
+		
+		System.out.println("RestAPI: Post Jira IV");
+		System.out.println("RestAPI: Post Jira V");
+		System.out.println("RestAPI: Post Jira VI");
+		System.out.println("RestAPI: Post Jira VII");
+		
 	}
 	@Test
 	public void deleteTwitter()

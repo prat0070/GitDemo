@@ -6,7 +6,8 @@ public class SeleniumTest {
 
 	@Test
 	public void BrowserAutomation() {
-		System.out.println("Selenium: Browser Automation");
+		System.out.println("Selenium: FireFox Browser Automation");
+		System.out.println("Selenium: Chrome Browser Automation");
 	}
 
 	@Test
