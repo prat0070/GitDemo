@@ -24,4 +24,9 @@ public class RestAPITest {
 	{
 		System.out.println("RestAPI: Delete Jira");
 	}
+	@Test
+	public void deleteWhatsApp()
+	{
+		System.out.println("RestAPI: Create WhatsApp");
+	}
 }

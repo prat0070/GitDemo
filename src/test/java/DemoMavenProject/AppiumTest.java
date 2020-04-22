@@ -14,4 +14,9 @@ public class AppiumTest {
 	{
 		System.out.println("Appium:IOS App");
 	}
+	@Test
+	public void nativePlayStore()
+	{
+		System.out.println("Appium Play Store: Native App");
+	}
 }
