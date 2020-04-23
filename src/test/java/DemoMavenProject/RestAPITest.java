@@ -17,6 +17,8 @@ public class RestAPITest {
 		System.out.println("RestAPI: Post Jira V");
 		System.out.println("RestAPI: Post Jira VI");
 		System.out.println("RestAPI: Post Jira VII");
+		System.out.println("RestAPI: Post Jira VIII");
+		System.out.println("RestAPI: Post Jira IX");
 		
 	}
 	@Test

@@ -14,5 +14,10 @@ public class SeleniumTest {
 	public void UIAutomation() {
 		System.out.println("Selenium: UIAutomation");
 	}
+	@Test
+	public void UIAutomationMobile() {
+		System.out.println("Selenium: UIAutomationMobile");
+	}
+
 
 }

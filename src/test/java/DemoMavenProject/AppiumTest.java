@@ -14,4 +14,9 @@ public class AppiumTest {
 	{
 		System.out.println("Appium:IOS App");
 	}
+	@Test
+	public void nativeApp()
+	{
+		System.out.println("Appium:Native App");
+	}
 }
