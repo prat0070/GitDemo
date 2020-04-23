@@ -19,5 +19,9 @@ public class SeleniumTest {
 	public void MobileAutomation() {
 		System.out.println("Selenium: UIAutomation on Chrome");
 	}
-
+	
+	@Test
+	public void MobileAutomationPartOne() {
+		System.out.println("Selenium: UIAutomation on Chrome Part One");
+	}
 }

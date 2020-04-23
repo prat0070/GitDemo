@@ -27,6 +27,11 @@ public class RestAPITest {
 	@Test
 	public void deleteWhatsApp()
 	{
-		System.out.println("RestAPI: Create WhatsApp");
+		System.out.println("RestAPI: Delete WhatsApp");
+	}
+	@Test
+	public void deleteFacebook()
+	{
+		System.out.println("RestAPI: Delete Facebook");
 	}
 }
